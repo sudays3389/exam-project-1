@@ -185,6 +185,13 @@ input{
     margin-left: 130px;
     margin-top: 10px;
 }
+.trrr{
+    background-color: #438db8;
+    width: 70px;
+    border-radius: 20px;
+    margin-top: 30px;
+    height: 10px;
+}
 .flex5{
     display: flex;
     justify-content: space-around;
