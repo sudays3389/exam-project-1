@@ -165,3 +165,22 @@ input{
     display: flex;
     gap: 60px;
 }
+.conteiner5{
+    width: 100%;
+    height: 300px;
+    margin-top: 300px;
+}
+.asist7{
+    padding: 50px 150px;
+}
+.flex8{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.flex9{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 30px;
+}
