@@ -184,3 +184,30 @@ input{
     gap: 50px;
     margin-top: 30px;
 }
+.conteiner7{
+    margin-top: 500px;
+    width: 100%;
+    height: 500px;
+}
+.asist8{
+    padding: 50px 150px;
+}
+.text15{
+    color: grey;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 600;
+}
+.tiee{
+    background-color: #438db8;
+    width: 90px;
+    height: 10px;
+    border-radius: 15px;
+    margin-left: 750px;
+    margin-top: 50px;
+}
+.flex10{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
